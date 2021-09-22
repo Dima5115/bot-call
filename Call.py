@@ -7,6 +7,8 @@ logo = """
  {@} Fungsi  : Membuat panggilan telpon ke nomor target menggunakan bot.
  {@} Email   : microosfteinc@gmail.com
 
+     Version : 1.5
+     Subscribe untuk mendapatkan pemberitahuan
 
 Panggilan diawali 8
        contoh: 
