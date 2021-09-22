@@ -20,4 +20,4 @@ kami cantumkan didalam script.
 
 Kami berusaha untuk bekerja secara cepat, tepat, transparant.
 
-© Copyright 2021 @
+© Copyright 2021 - 22 sept @
