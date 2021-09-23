@@ -8,6 +8,6 @@ dimana terakhir kali ditaruh.
 # Perhatian
 Script sewaktu-waktu dapat kadaluarsa mohon untuk dimaklumi.
 
-Versi script (1.5)
+Versi script (1.6)
 
 © Copyright 2021 - 22 Sept ©
