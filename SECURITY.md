@@ -13,6 +13,7 @@ mengambil dan/atau menyebarkan privasi pengguna.
 | 1.0     | Penambahan kebijakan privasi kedalam script.  |
 | 1.2     | Perbaikan beberapa bug memperlancar kinerja.  |
 | 1.5     | Perubahan nama file.                          |
+| 1.6     | Perubahan Tampilan Script "Heil Soldudo".     |
 
 ## Reporting a Vulnerability
 Anda dapat mengirim pesan ke kontak yang telah
