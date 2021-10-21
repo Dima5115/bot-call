@@ -14,6 +14,7 @@ mengambil dan/atau menyebarkan privasi pengguna.
 | 1.2     | Perbaikan beberapa bug memperlancar kinerja.  |
 | 1.5     | Perubahan nama file.                          |
 | 1.6     | Perubahan Tampilan Script "Heil Soldudo".     |
+| 1.7.    | Penambahan shell.                             |
 
 ## Reporting a Vulnerability
 Anda dapat mengirim pesan ke kontak yang telah
@@ -21,4 +22,4 @@ kami cantumkan didalam script.
 
 Kami berusaha untuk bekerja secara cepat, tepat, transparant.
 
-© Copyright 2021 - 22 sept @
+© Copyright 2021 - 21 Oct @
